@@ -84,7 +84,7 @@ If you want to:
 
 ### 📫 Contact
 
-- **LinkedIn:** [Shree Naik](https://www.linkedin.com/in/shreedhar-naik/)
+- **LinkedIn:** [Shree Naik](https://www.linkedin.com/in/shree-naik/)
 - **Email:** shreedhar.g.naik@gmail.com
 
 ### ⚡ Inspirational Quote
