@@ -84,8 +84,8 @@ If you want to:
 
 ### 📫 Contact
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/)  
-- **Email:** your.email@example.com  
+- **LinkedIn:** [Your LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/shree-naik/))  
+- **Email:** shreedhar.g.naik@gmail.com
 
 ### ⚡ Inspirational Quote
 
