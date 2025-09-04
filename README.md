@@ -10,7 +10,7 @@ Here, I share my journey of solving real-world problems and building scalable sy
 1. [Focus Areas](#-focus-areas)
 2. [Tech Stacks](#-tech-stacks)
 3. [Philosophy](#-philosophy)
-4. [Getting Started](#-get-started)
+4. [Getting Started](#getting-started)
 5. [Contributions](#-contributions)
 6. [Contact](#-contact)
 
