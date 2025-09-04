@@ -62,12 +62,6 @@ Whether you’re a fellow engineer, recruiter, or curious learner, this reposito
 ```bash
 git clone https://github.com/naiks/JnanaMandal.git
 ```
-## 🚀 Getting Started
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/naiks/JnanaMandal.git
-```
 2. **Explore & Run Examples**
 
 - **BigData/** → Spark, Kafka, Delta Lake examples  
@@ -77,7 +71,6 @@ git clone https://github.com/naiks/JnanaMandal.git
 
 Run example scripts or contribute your own experiments.  
 
----
 ### 🤝 Contributions
 
 Contributions, feedback, and discussions are always welcome!  
