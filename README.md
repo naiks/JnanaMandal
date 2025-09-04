@@ -77,6 +77,7 @@ git clone https://github.com/naiks/JnanaMandal.git
 
 Run example scripts or contribute your own experiments.  
 
+---
 ### 🤝 Contributions
 
 Contributions, feedback, and discussions are always welcome!  
